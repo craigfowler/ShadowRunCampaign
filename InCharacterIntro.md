@@ -1,3 +1,3 @@
-# InCharacterIntro
+# In-character introduction
 
-[Index](Index.md)
+_This content is not yet written._
