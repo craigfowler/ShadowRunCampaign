@@ -1,0 +1,10 @@
+title: Craig's ShadowRun campaign
+
+plugins:
+  - jekyll-sitemap
+
+exclude:
+  - LICENSE
+  - README.md
+
+markdown: kramdown
