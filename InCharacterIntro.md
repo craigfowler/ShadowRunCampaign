@@ -21,13 +21,23 @@ It would have been expected if the corpos laid off all of the workers and replac
 
 One day every construction project was just abandoned all at once; the construction drones all rolled off back to HQ and everything was left half-finished.
 Sure the newscast (when you could get a connection to the net) did some pieces about it; "shifting priorities" the suits said.
-They even promised to do right by the people who'd moved into the area on the promise of work, people who were saddled with debts and contacts which they couldn't get out from under.
-Strange how when you make a contract with a corpo they always make sure they get their end, but when they make their own promises it don't mean drek.
+Longer-term residents might remember that holovid that went around for a while; saying that the corpos took a load of UCAS grants to rejuvenate the Redmond Barrens but found a loophole that meant they never had to finish the project.
+Dunno if that's drek or real though, who can trust anything you see in the media thesedays?
+
+After the shutdown, Mitsuhama promised to do right by the people who'd moved into the area on the promise of work, people who were saddled with debts and contracts which they couldn't get out from under.
+Don't you think it's strange how when you make a contract with a corpo they always make sure they get their end, but when they make their own promises it don't mean drek?
+Of course none of the help ever materialised, people were stuck paying for half-built homes and relocated for jobs that never appeared.
+
+The whole thing just dragged more honest folk out into the Redmond barrens to rot.
+I bet the only ones happy with the deal were the 162s.
+They love it when new folk turn up, clueless enough not to know that you don't go out alone at night in Redmond.
+A lot of souls went out that way in the first few months, some might say they got out the easy way.
 
 So now, New Prosperity, like most of the rest of Redmond, has been left to the wild.
 The infrastructure is either missing, or needs repair, or has to be jury-rigged with substandard parts.
-The Brothers try to keep the peace, so it's not complete anarchy.
+The Brothers try to keep the peace in their little part, so it's not complete anarchy.
 Don't think for a second you're gonna' see Lone Star down here though.
+If you ever do, run, because you can be sure they're planning on scragging anything that moves.
 
 ## The Foundry Brothers
 
