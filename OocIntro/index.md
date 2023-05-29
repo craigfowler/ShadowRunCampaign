@@ -5,9 +5,14 @@ The info you need as a new player is that we are using [ShadowRun 4th Anniversar
 This is a _gang level_ game with [a much lower power level than a normal ShadowRun game], so adjust your expectations accordingly!
 To create gang level characters, use [these adjustments to the character creation rules].
 
+You will all begin the game [as lieutenants of a street gang].
+All of the members of the party should know one another and have gone on some small missions together before.
+Within the gang, you're _the team who get things done_ when there's something that's too risky or important to send regular goons.
+
 [ShadowRun 4th Anniversary Edition rules]: Rules.md
 [a much lower power level than a normal ShadowRun game]: PowerLevel.md
 [these adjustments to the character creation rules]: CharacterCreation.md
+[as lieutenants of a street gang]: ../InCharacterIntro.md
 
 ## Sample characters
 

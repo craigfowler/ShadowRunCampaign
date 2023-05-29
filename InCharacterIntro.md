@@ -49,6 +49,9 @@ Davic was killed out on a night-time mission a few months ago though, a dumb way
 He was caught by a stray bullet in a firefight when some ghouls attacked out of nowhere.
 Ever since, the Brothers have had a new leader: **[Sylvie Walder]**.
 
+As for yourselves, you've risen up through the ranks of The Brothers; you're now a trusted lietenant.
+Along with a few others, you make up a team who are Sylvie's go-to-guys when it comes to missions that are either too risky or too important to send the regular goons, who might screw it all up.
+
 ## The Brothers under Sylvie
 
 Sylvie is one tough elf, she's been with The Brothers ever since they split from The Crush and was always Davic's right hand woman.
