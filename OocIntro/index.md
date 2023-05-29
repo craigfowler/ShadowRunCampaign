@@ -1,6 +1,4 @@
-# OOC Intro
-
-_This isn't final yet!  If you're a player reading this before I've announced it then it's still subject to change!_
+# Out-of-character introduction
 
 This is what you need to know out-of-character for Craig's gang-level ShadowRun game.
 The info you need as a new player is that we are using [ShadowRun 4th Anniversary Edition rules] along with its five major expansion rulebooks.
