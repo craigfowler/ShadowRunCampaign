@@ -9,10 +9,19 @@ If you did want to buy them, this [discounted bundle for all of the expansion bo
     * I'll be referring to this as **SR4A**
     * This is the only mandatory rulebook, others are strictly optional
 * [Unwired]
+    * Computers & hacking expansion
 * [Arsenal]
+    * Guns, vehicles & equipment expansion
+    * Also has some expanded combat rules
 * [Augmentation]
+    * Implants, cyberware, bioware, nanotech
+    * Much of this will be out of reach to your characters
 * [Street Magic]
+    * Magic expansion
 * [Runner's Companion]
+    * Other assorted expansion & optional rules
+    * Where it comes to optional rules, right now I'm not using any of them
+    * If you'd like to use one, ask first
 
 _Don't worry if you have regular 4th Edition versions_ of these books.
 The updated versions for SR4A are 99% reprints of the original SR4 versions with errata already-included.
