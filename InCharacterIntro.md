@@ -13,15 +13,17 @@ That's not to say that they're holy white, they run a protection racket and push
 The Brothers run out of a neighbourhood named New Prosperity, no joke.
 The corpos, lead by Mitsuhama, had a big regeneration and redevelopment drive twenty six years back.
 Slot me sideways but they even had the heavy construction drones out in force, building up new factories and homes.
-When everyone's looking for an opportunity so hard, they'll take any evidence as a sign from on-high that change is just around the corner.
+When everyone's looking for an opportunity so hard, they'll accept anything as evidence from on-high that change is just around the corner.
 
-Wageslaves flocked to the neighbourhood like ticks to a swamp; they signed ten-year contracts for rent on the promise of getting a job at one of the big new factories advertised positions for "highly skilled workers".
+Wageslaves flocked to the neighbourhood like ticks to a swamp; they signed long-term contracts, the standard was 10 years, to rent a home that wasn't built yet.
+It was all on the promised opportunity of a job at one of the big new factories, advertising for "highly skilled workers".
 You can guess what comes next, right?
 It would have been expected if the corpos laid off all of the workers and replaced them with drones but not even that.
 
 One day every construction project was just abandoned all at once; the construction drones all rolled off back to HQ and everything was left half-finished.
 Sure the newscast (when you could get a connection to the net) did some pieces about it; "shifting priorities" the suits said.
-Longer-term residents might remember that holovid that went around for a while; saying that the corpos took a load of UCAS grants to rejuvenate the Redmond Barrens but found a loophole that meant they never had to finish the project.
+Longer-term residents might remember that holovid that went around for a while; exposing how the corpos took a load of UCAS grants to rejuvenate the Redmond Barrens.
+Apparently they found a loophole that meant they never had to finish the project.
 Dunno if that's drek or real though, who can trust anything you see in the media thesedays?
 
 After the shutdown, Mitsuhama promised to do right by the people who'd moved into the area on the promise of work, people who were saddled with debts and contracts which they couldn't get out from under.
@@ -41,7 +43,7 @@ If you ever do, run, because you can be sure they're planning on scragging anyth
 
 ## The Foundry Brothers
 
-So, you're with The Brothers, here's a little more about them.
+You're with The Brothers, here's a little more about them.
 Trace far enough back and you'll find out that they're an offshoot from another Redmond gang, **[The Crimson Crush]**.
 The only one who could tell you for sure why the split was croaked a few months ago though.
 That was Davic Bonnie, the old leader of The Brothers.
