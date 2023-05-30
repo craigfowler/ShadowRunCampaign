@@ -7,7 +7,7 @@
 
 | Attribute     | Base  | Spend | Score | Adjusted  |
 | ---------     | ----: | ----: | ----: | -------:  |
-| Body          | 2     | 2     | 4     | 4         |
+| Body          | 4     | 2     | 6     | 6         |
 | Agility       | 1     | 1     | 2     | 3         |
 | Reaction      | 1     | 3     | 4     | 4         |
 | Strength      | 3     | 0     | 3     | 4         |
