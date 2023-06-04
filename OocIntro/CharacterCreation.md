@@ -1,6 +1,9 @@
 # Character creation rules
 
+To create characters, players may use rules *[from these listed source books]*.
 Here's how I'm modifying the standard character creation rules from the main SR4A book.
+
+[from these listed source books]: Rules.md
 
 ## Build point limit
 
