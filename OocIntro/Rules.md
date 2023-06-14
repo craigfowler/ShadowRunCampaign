@@ -49,3 +49,9 @@ For those who have print-edition books or versions which precede the SR4A editio
 [Street Magic Errata v1.4.1]: http://cdn.shadowruntabletop.com/wp-content/uploads/Downloads/sm_errata_v141.pdf
 [Arsenal Errata v1.3.2]: http://cdn.shadowruntabletop.com/wp-content/uploads/Downloads/arsenal_errata_132.pdf
 [Unwired Errata v1]: http://cdn.shadowruntabletop.com/wp-content/uploads/Downloads/unwired_errata_v1.pdf
+
+## House rules
+
+There are [some house rules] to familiarise yourself with, too.
+
+[some house rules]: HouseRules.md
