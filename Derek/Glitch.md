@@ -5,30 +5,44 @@
 * **Technomancer** quality
 * **Low** lifestyle
 
-## Attributes
 
-| Attribute     | Base  | Spend | Score | Adjusted  |
+## Attributes   150
+
+| Attribute     | Base  | BP    | Score | Adjusted  |
 | ---------     | ----: | ----: | ----: | -------:  |
-| Body          | 2     | 1     | 3     | 3         |
-| Agility       | 1     | 1     | 2     | 2         |
-| Reaction      | 1     | 1     | 2     | 2         |
+| Body          | 2     | 10    | 3     | 3         |
+| Agility       | 1     | 10    | 2     | 2         |
+| Reaction      | 1     | 10    | 2     | 2         |
 | Strength      | 3     | 0     | 3     | 3         |
-| Charisma      | 1     | 3     | 4     | 4         |
-| Intuition     | 1     | 3     | 4     | 4         |
-| Logic         | 1     | 3     | 4     | 4         |
-| Willpower     | 2     | 3     | 5     | 5         |
+| Charisma      | 1     | 10    | 2     | 2         |
+| Intuition     | 1     | 30    | 4     | 4         |
+| Logic         | 1     | 30    | 4     | 4         |
+| Willpower     | 2     | 30    | 5     | 5         |
 | Edge          | 1     | 0     | 1     | 1         |
-| Magic         | 1     | 2     | 3     | 3         |
+| Magic         | 1     | 20    | 3     | 3         |
 
-## Active skill Groups
 
-| Skill             | Rating    |
+## Qualities  -5
+35 Negative (max 35), 30 Positive (Max 35)
+| Quality             | Rating  | BP    |  Notes          |
+| ---------           | ----:   | ----: | ---------       |
+| Sensative System    |         | -15    | pg 95          |
+| SINer               |         | -5     | pg 95          |
+| Lost Loved One      |         | -5     | See Bacground  |
+| Dependent           |         | -10    | See Bacground  |
+| Dwarf               |         |  25    |                |
+| Technomancer        |         |  5     |                |
+
+
+## Active skill Groups  80
+
+| Skill             | Rating    | 
 | -----             | -----:    |
 | Tasking           | 2         |
 | Electronics       | 1         |
-| Cracking          | 1         |
+| Cracking          | 5         |
 
-## Active skills 
+## Active skills    10
 
 | Skill             | Rating    |
 | -----             | -----:    |
@@ -36,7 +50,8 @@
 | Pistol            | 1         |
 
 
-## Knowledge skills
+## Knowledge skills 
+(L+I)*3 = 24 free points
 
 | Skill                             | Rating    | Category      |
 | -----                             | -----:    | --------      |
@@ -53,20 +68,22 @@
 
 ## Complex Forms
 
-| Spell              |  Rating   |
+| Form (Program)     |  Rating   |
 | -----              |  -----:   |
+| Analyze            | 1         |
 | Browse             | 1         |
 | Command            | 2         |
 | Edit               | 2         |
 | Scan               | 1         |
-| Exploit            | 2         |
-| Stealth            | 1         |
+| Exploit            | 3         |
+| Stealth            | 2         |
+| Spoof              | 2         |
 
 ## Resources, equipment & implants
 
 | Item                                      | Cost ¥  |
 | ----                                      | -----:  |
-| Armour  Long coat                         |         |
+| Armoured Long coat                        |         |
 | 1 month Low lifestyle                     |         |
 | Metalink Commlink                         |         |
 | flash pack                                |         |
@@ -82,16 +99,12 @@
 
 ## Build points
 
-| Points    | Description         | Notes             |
-| -----:    | -----------         | -----             |
-| 170       | Attributes          |                   |
-| 25        | Dwarf               |                   |
-| 5         | Technomancer        |                   |
-| 10        | Photographic Memory |                   |
-| -15       | Sensitive System    |                   |
-| -5        | SINer               |                   |
-| 50        | Skills              |                   |
-| 0         | Contacts            |                   |
-| 9         | Complex Forms       |                   |
-| 1         | Resources           | 5k @ 5k / point   |
-| 250       | **Total**           |                   |
+| Points    | Description            | Notes             |
+| -----:    | -----------            | :-----            |
+| 150       | Attributes             |                   |
+| -5        | Qualities              |                   |
+| 90        | Skills                 |                   |
+| 0         | Contacts               |                   |
+| 14        | Complex Forms          |                   |
+| 1         | Resources              | 5k @ 5k / point   |
+| 250       | **Total**              |                   |
