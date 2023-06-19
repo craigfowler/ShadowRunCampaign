@@ -39,8 +39,8 @@
 | Skill             | Rating    | 
 | -----             | -----:    |
 | Tasking           | 2         |
-| Electronics       | 1         |
-| Cracking          | 5         |
+| Electronics       | 2         |
+| Cracking          | 4         |
 
 ## Active skills    10
 
