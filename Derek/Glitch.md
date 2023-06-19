@@ -19,7 +19,7 @@
 | Logic         | 1     | 30    | 4     | 4         |
 | Willpower     | 2     | 30    | 5     | 5         |
 | Edge          | 1     | 0     | 1     | 1         |
-| Magic         | 1     | 20    | 3     | 3         |
+| Resonance     | 1     | 20    | 3     | 3         |
 
 
 ## Qualities  -5
@@ -47,7 +47,7 @@
 | Skill             | Rating    |
 | -----             | -----:    |
 | Etiquette {corp}  | 1 {3}     |
-| Pistol            | 1         |
+| Longarms          | 1         |
 
 
 ## Knowledge skills 
@@ -83,16 +83,20 @@
 
 | Item                                      | Cost ¥  |
 | ----                                      | -----:  |
-| Armoured Long coat                        |         |
-| 1 month Low lifestyle                     |         |
-| Metalink Commlink                         |         |
-| flash pack                                |         |
-| smoke                                     |         |
-| rfid(stealth)                             |         |
-| binoculars                                |         |
+| Lined Coat   (6/4)                        | 700     |
+| Mod fpr armor Fire Resistance Rating 2    | 200     |
+| 1 month Low lifestyle                     | 50      |
+| Metalink Commlink                         | 100     |
+| smoke (2 at 30¥ each)                     | 60      |
+| rfid(stealth)                             | 5       |
+| binoculars                                | 50      |
 | Dodge scoot                               | 3000    |
+| Remington 990 (Shotgun)                   | 550     |
+| Slugs(Regular) Ammo 30 @20¥ per 10 shots  | 60      |
+| Flechette      Ammo 20 @100¥ per 10 shots | 200     |
 
-* Total spend: **¥v??,??**
+
+* Total spend: **¥4,975**
 * Starting in-game nuyen: **2d6 × ¥20**
 * Highest availability used: **4**
 
