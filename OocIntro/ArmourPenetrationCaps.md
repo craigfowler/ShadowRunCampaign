@@ -15,5 +15,5 @@ Here is the replacement rule.
 > This takes into account all applicable armour before AP is applied.
 > This applies also if the defender has no armour; double zero is still zero.
 
-For example a character with 2 ballistic armour is shot with flechettes: AP +5. Their effective armour is 4 and not 7; the extra three points of positive AP are ineffective.
-Another example; a troll which has titanium bone lacing, wearing a leather jacket has an effective ballistic armour of 4 before AP is applied.  That's 1 from being a troll, 1 from the bone lacing and 2 from the jacket.  This troll is shot with flechettes: AP +5 and their effective armour for resisting the damage is 8, not 9.
+For example a character with 2 impact armour is shot with flechettes: AP +5. Their effective armour is 4 and not 7; the extra three points of positive AP are ineffective.
+Another example; a troll which has titanium bone lacing, wearing a leather jacket has an effective impact armour of 4 before AP is applied.  That's 1 from being a troll, 1 from the bone lacing and 2 from the jacket.  This troll is shot with flechettes: AP +5 and their effective armour for resisting the damage is 8, not 9.
