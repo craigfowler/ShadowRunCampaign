@@ -5,7 +5,6 @@
 * **Technomancer** quality
 * **Low** lifestyle
 
-
 ## Attributes   150
 
 | Attribute     | Base  | BP    | Score | Adjusted  |
@@ -21,22 +20,22 @@
 | Edge          | 1     | 0     | 1     | 1         |
 | Resonance     | 1     | 20    | 3     | 3         |
 
-
 ## Qualities  -5
-35 Negative (max 35), 30 Positive (Max 35)
-| Quality             | Rating  | BP    |  Notes          |
-| ---------           | ----:   | ----: | ---------       |
-| Sensative System    |         | -15    | pg 95          |
-| SINer               |         | -5     | pg 95          |
-| Lost Loved One      |         | -5     | See Bacground  |
-| Dependent           |         | -10    | See Bacground  |
-| Dwarf               |         |  25    |                |
-| Technomancer        |         |  5     |                |
 
+35 Negative (max 35), 30 Positive (Max 35)
+
+| Quality             | Rating  | BP    |  Notes            |
+| ---------           | ----:   | ----: | ---------         |
+| Sensative System    |         | -15   | pg 95             |
+| SINer               |         | -5    | pg 95             |
+| Lost Loved One      |         | -5    | See Background    |
+| Dependent           |         | -10   | See Background    |
+| Dwarf               |         |  25   |                   |
+| Technomancer        |         |  5    |                   |
 
 ## Active skill Groups  80
 
-| Skill             | Rating    | 
+| Skill             | Rating    |
 | -----             | -----:    |
 | Tasking           | 2         |
 | Electronics       | 2         |
@@ -49,8 +48,8 @@
 | Etiquette {corp}  | 1 {3}     |
 | Longarms          | 1         |
 
-
 ## Knowledge skills 
+
 (L+I)*3 = 24 free points
 
 | Skill                             | Rating    | Category      |
@@ -62,9 +61,9 @@
 | Cyberdecks                        | 4         | Professional  |
 |                                   |           |               |
 |English                            | N         |  Language     |
-| Japanese                          | 3         |  Language     | 
-| German                            | 2         |  Language     | 
-| Spanish                           | 2         |  Language     |     
+| Japanese                          | 3         |  Language     |
+| German                            | 2         |  Language     |
+| Spanish                           | 2         |  Language     |
 
 ## Complex Forms
 
