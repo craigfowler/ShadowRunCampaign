@@ -1,7 +1,7 @@
 # Halthir Dasami (Adept)
 
-* **Halthir Dasami ** Name
-* **Elf** metatype
+* Name **Halthir Dasami** 
+* metatype **Elf** 
 * **Adept** quality
 * **Middle** lifestyle
 
@@ -72,6 +72,7 @@
 
 ## Contacts
 | Name								| Connection	| Loyalty	|
+| -----								| ----------	| -------	|
 | Business Contact					| 2				| 1			|
 | Business Contact 2				| 2				| 1			|
 | Mother							| 1				| 4			|
@@ -79,8 +80,8 @@
 
 ## Adept Powers
 
-| Power								|  Rating	|	Points  |	Reference	|
-| -----								|  -----:   |	------	|	---------	|
+| Power								|  Rating	|	Points  |	Reference	
+| -----								|  -----:   |	------	|	---------	
 | Attribute Boost					| 1         |	0.25	| pg 195
 | Commanding Voice					|			|	0.25	| SM pg 176
 | Enhanced Perception				| 1         |	0.25	| pg 195
@@ -94,7 +95,7 @@
 
 ## Resources, equipment & implants
 
-| Item                                      | Cost ¥  |
+| Item                                      | Cost ï¿½  |
 | ----                                      | -----:  |
 | Lined Coat   (6/4)                        | 700     | 
 | 1 month Medium lifestyle                  |	      |
@@ -104,12 +105,12 @@
 | Suzuki Mirage								|		  |
 | Colt Manhunter		                    |		  |
 | Streetline Special	                    |		  |
-| Slugs(Regular) Ammo 140 @20¥ per 10 shots | 280     |
-| Gel     Ammo 20 @30¥ per 10 shots			| 60      |
+| Slugs(Regular) Ammo 140 @20ï¿½ per 10 shots | 280     |
+| Gel     Ammo 20 @30ï¿½ per 10 shots			| 60      |
 
 
-* Total spend: **¥ **
-* Starting in-game nuyen: **2d6 × ¥20**
+* Total spend: **ï¿½ **
+* Starting in-game nuyen: **2d6 ï¿½ ï¿½20**
 * Highest availability used: **x**
 
 
