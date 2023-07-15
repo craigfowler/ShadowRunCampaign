@@ -122,13 +122,16 @@ _No build points used beyond free allocation._
 | Suzuki Mirage                     | 6,500     |
 | Colt Manhunter                    | 300       |
 | Streetline Special                | 100       |
-| Regular ammo × 140 @20¥/10        | 280       |
-| Gel ammo × 20 @30¥/10             | 60        |
+| Heavy Pistol ammo × 70 @20¥/10        | 140       |
+| Holdout Pistol ammo × 70 @20¥/10        | 140       |
+| Gel ammo × 20 @30¥/10 (Heavy pistol)      | 60        |
+| Stick n shock	2 @ 80¥/10 (Heavy pistol)	| 160 |
+| Spare clips	4 @ 50	 (Heavy pistol)    | 200 |
+| Spare clips	1 @ 50	(holdout)          | 50 |
 
-* Total spend: **¥14,590**
-* Starting in-game nuyen: **4d6+4 × ¥100**
+* Total spend: **¥15,000**
+* Starting in-game nuyen: **4d6 × ¥100**
 * Highest availability used: **4**
-
 
 ## Build points
 
