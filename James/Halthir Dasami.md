@@ -10,17 +10,17 @@
 | Attribute     | Base  | BP    | Score | Adjusted  |
 | ---------     | ----: | ----: | ----: | -------:  |
 | Body          | 1     | 10    | 2     | 3         |
-| Agility       | 2     | 10    | 3     | 3         |
-| Reaction      | 1     | 10    | 2     | 3         |
-| Strength      | 1     | 0     | 1     | 1         |
-| Charisma      | 3     | 10    | 4     | 4         |
-| Intuition     | 1     | 30    | 4     | 4         |
-| Logic         | 1     | 30    | 4     | 4         |
-| Willpower     | 1     | 30    | 4     | 4         |
-| Edge          | 1     | 0     | 1     | 1         |
+| Agility       | 2     | 30    | 5     | 5         |
+| Reaction      | 1     | 40    | 5     | 6         |
+| Strength      | 1     | 10    | 2     | 2         |
+| Charisma      | 3     | 20    | 5     | 5         |
+| Intuition     | 1     | 10    | 2     | 2         |
+| Logic         | 1     | 10    | 2     | 2         |
+| Willpower     | 1     | 10    | 2     | 2         |
+| Edge          | 1     | 10    | 2     | 2         |
 | Magic         | 1     | 40    | 5     | 5         |
 
-**Total**: 170
+**Total**: 190
 
 ## Qualities
 
@@ -36,9 +36,9 @@
 
 ## Active skills
 
-**Total BP**: 94 _(grand total for both groups and individual skills)_
+**Total BP**: 42 _(grand total of both individual skills and groups)_
 
-### Skill groups
+### Skill Groups
 
 | Skill             | Rating    |
 | -----             | -----:    |
@@ -49,38 +49,38 @@
 
 ### Individual skills
 
-| Skill             | Rating    |
-| -----             | -----:    |
-| Perception        | 4         |
-| Pistols           | 6         |
-| Blades            | 6         |
+| Skill             | Rating    | Dice pool |
+| -----             | -----:    | --------: |
+| Perception        | 1         | 4         |
+| Pistols           | 1         | 6         |
+| Blades            | 1         | 6         |
 
-**Total BP**: 64
+**Total BP**: 12
 
-## Knowledge skills 
+## Knowledge skills
 
-(L+I)*3 = 24 free points
+(L+I)*3 = 12 free points
 
-| Skill                         | Rating    | Category  |
-| -----                         | -----:    | --------  |
-| Business                      | 3         | Academic  |
-| Economics                     | 3         | Academic  |
-| Syndicates                    | 3         | Street    |
-| Area knowledge (Seattle)      | 3         | Street    |
+| Skill                         | Rating    | Dice pool | Category  |
+| -----                         | -----:    | --------: | --------  |
+| Business                      | 1         | 3         | Academic  |
+| Economics                     | 1         | 3         | Academic  |
+| Syndicates                    | 1         | 3         | Street    |
+| Area knowledge (Seattle)      | 1         | 3         | Street    |
 
 ### Language skills
 
-| Language                      | Rating    |
-| -----                         | -----:    |
-| English                       | N         |
-| Japanese                      | 3         |
-| Cantonese                     | 3         |
-| Or'Zet                        | 3         |
-| Spanish                       | 3         |
-| Sperethiel                    | 4         |
-| Sperethiel (Read/Write)       | 4         |
+| Language                      | Rating    | Dice pool |
+| -----                         | -----:    | --------: |
+| English                       | N         | N         |
+| Japanese                      | 1         | 3         |
+| Cantonese                     | 1         | 3         |
+| Or'Zet                        | 1         | 3         |
+| Spanish                       | 1         | 3         |
+| Sperethiel                    | 2         | 4         |
+| Sperethiel (Read/Write)       | 2         | 4         |
 
-**Total BP**: 16 _(above free knowledge skill allowance)_
+_No build points used beyond free allocation._
 
 ## Contacts
 
@@ -135,9 +135,9 @@
 | Points    | Description          | Notes              |
 | -----:    | -----------          | :-----             |
 | 30        | Elf                  |                    |
-| 170       | Attributes           |                    |
+| 190       | Attributes           |                    |
 | -30       | Qualities            |                    |
-| 94        | Skills               |                    |
+| 42        | Skills               |                    |
 | 15        | Contacts             |                    |
 | 3         | Resources            | 15k @ 5k / point   |
-| 282       | **Total**            |                    |
+| 250       | **Total**            |                    |
