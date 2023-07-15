@@ -10,7 +10,7 @@
 | Attribute     | Base  | BP    | Score | Adjusted  |
 | ---------     | ----: | ----: | ----: | -------:  |
 | Body          | 1     | 10    | 2     | 3         |
-| Agility       | 2     | 10    | 2     | 2         |
+| Agility       | 2     | 10    | 3     | 3         |
 | Reaction      | 1     | 10    | 2     | 3         |
 | Strength      | 1     | 0     | 1     | 1         |
 | Charisma      | 3     | 10    | 4     | 4         |
