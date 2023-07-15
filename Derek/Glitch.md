@@ -5,7 +5,7 @@
 * **Technomancer** quality
 * **Low** lifestyle
 
-## Attributes   150
+## Attributes
 
 | Attribute     | Base  | BP    | Score | Adjusted  |
 | ---------     | ----: | ----: | ----: | -------:  |
@@ -20,35 +20,44 @@
 | Edge          | 1     | 0     | 1     | 1         |
 | Resonance     | 1     | 20    | 3     | 3         |
 
-## Qualities  -5
+**Total**: 150 BP
 
-35 Negative (max 35), 30 Positive (Max 35)
+## Qualities
 
 | Quality             | Rating  | BP    |  Notes            |
 | ---------           | ----:   | ----: | ---------         |
-| Sensative System    |         | -15   | pg 95             |
-| SINer               |         | -5    | pg 95             |
-| Lost Loved One      |         | -5    | See Background    |
-| Dependent           |         | -10   | See Background    |
-| Dwarf               |         |  25   |                   |
-| Technomancer        |         |  5    |                   |
+| Sensative System    |         | -15   | SR4A p95          |
+| SINer               |         | -5    | SR4A p95          |
+| Lost Loved One      |         | -5    | RC p104           |
+| Dependent           |         | -10   | RC p104           |
+| Technomancer        |         |  5    | SR4A p93          |
 
-## Active skill Groups  80
+**Total**: -30 BP
 
-| Skill             | Rating    |
+## Active skills
+
+**Total**: 90 BP _(grand total of groups and individual skills)_
+
+### Skill groups
+
+| Group             | Rating    |
 | -----             | -----:    |
 | Tasking           | 2         |
 | Electronics       | 2         |
 | Cracking          | 4         |
 
-## Active skills    10
+**Total**: 80 BP
 
-| Skill             | Rating    |
-| -----             | -----:    |
-| Etiquette {corp}  | 1 {3}     |
-| Longarms          | 1         |
+## Individual skills
 
-## Knowledge skills 
+| Skill                     | Rating    |
+| -----                     | -----:    |
+| Etiquette _(corporate)_   | 1 _(3)_   |
+| Longarms                  | 1         |
+
+**Total**: 10 BP
+
+## Knowledge skills
 
 (L+I)*3 = 24 free points
 
@@ -59,11 +68,17 @@
 | Mega Corporate Politics           | 1         | Academic      |
 | Classical Music                   | 2         | Interests     |
 | Cyberdecks                        | 4         | Professional  |
-|                                   |           |               |
-|English                            | N         |  Language     |
-| Japanese                          | 3         |  Language     |
-| German                            | 2         |  Language     |
-| Spanish                           | 2         |  Language     |
+
+### Language skills
+
+| Language                          | Rating    |
+| --------                          | -----:    |
+| English                           | N         |
+| Japanese                          | 3         |
+| German                            | 2         |
+| Spanish                           | 2         |
+
+_Underspent on Knowledge skills by 1 point.  Current total = 23 out of 24 free ranks._
 
 ## Complex Forms
 
@@ -78,11 +93,13 @@
 | Stealth            | 2         |
 | Spoof              | 2         |
 
+**Total**: 14 BP
+
 ## Resources, equipment & implants
 
 | Item                                      | Cost ¥  |
 | ----                                      | -----:  |
-| Lined Coat   (6/4)                        | 700     |
+| Lined Coat (armour 6/4)                   | 700     |
 | Mod fpr armor Fire Resistance Rating 2    | 200     |
 | 1 month Low lifestyle                     | 50      |
 | Metalink Commlink                         | 100     |
@@ -94,7 +111,6 @@
 | Slugs(Regular) Ammo 30 @20¥ per 10 shots  | 60      |
 | Flechette      Ammo 20 @100¥ per 10 shots | 200     |
 
-
 * Total spend: **¥4,975**
 * Starting in-game nuyen: **2d6 × ¥20**
 * Highest availability used: **4**
@@ -102,12 +118,13 @@
 
 ## Build points
 
-| Points    | Description            | Notes             |
-| -----:    | -----------            | :-----            |
-| 150       | Attributes             |                   |
-| -5        | Qualities              |                   |
-| 90        | Skills                 |                   |
-| 0         | Contacts               |                   |
-| 14        | Complex Forms          |                   |
-| 1         | Resources              | 5k @ 5k / point   |
-| 250       | **Total**              |                   |
+| Points    | Description           | Notes             |
+| -----:    | -----------           | :-----            |
+| 25        | Dwarf                 |                   |
+| 150       | Attributes            |                   |
+| -30       | Qualities             |                   |
+| 90        | Skills                |                   |
+| 0         | Contacts              |                   |
+| 14        | Complex Forms         |                   |
+| 1         | Resources             | 5k @ 5k / point   |
+| 250       | **Total**             |                   |
