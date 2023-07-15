@@ -9,15 +9,15 @@
 
 | Attribute     | Base  | BP    | Score | Adjusted  |
 | ---------     | ----: | ----: | ----: | -------:  |
-| Body          | 1     | 10    | 2     | 2         |
-| Agility       | 2     | 10    | 2     | 5         |
-| Reaction      | 1     | 10    | 2     | 5         |
-| Strength      | 1     | 0     | 1     | 2         |
-| Charisma      | 3     | 10    | 4     | 5         |
-| Intuition     | 1     | 30    | 4     | 2         |
-| Logic         | 1     | 30    | 4     | 2         |
-| Willpower     | 1     | 30    | 4     | 2         |
-| Edge          | 1     | 0     | 1     | 2         |
+| Body          | 1     | 10    | 2     | 3         |
+| Agility       | 2     | 10    | 2     | 2         |
+| Reaction      | 1     | 10    | 2     | 3         |
+| Strength      | 1     | 0     | 1     | 1         |
+| Charisma      | 3     | 10    | 4     | 4         |
+| Intuition     | 1     | 30    | 4     | 4         |
+| Logic         | 1     | 30    | 4     | 4         |
+| Willpower     | 1     | 30    | 4     | 4         |
+| Edge          | 1     | 0     | 1     | 1         |
 | Magic         | 1     | 40    | 5     | 5         |
 
 **Total**: 170
@@ -73,12 +73,12 @@
 | Language                      | Rating    |
 | -----                         | -----:    |
 | English                       | N         |
-| Japanese                      | 3 (5)     |
-| Cantonese                     | 3 (5)     |
-| Or'Zet                        | 3 (5)     |
-| Spanish                       | 3 (5)     |
-| Sperethiel                    | 4 (6)     |
-| Sperethiel (Read/Write)       | 4 (6)     |
+| Japanese                      | 3         |
+| Cantonese                     | 3         |
+| Or'Zet                        | 3         |
+| Spanish                       | 3         |
+| Sperethiel                    | 4         |
+| Sperethiel (Read/Write)       | 4         |
 
 **Total BP**: 16 _(above free knowledge skill allowance)_
 
@@ -86,7 +86,7 @@
 
 | Name                                                          | Connection    | Loyalty   |
 | -----                                                         | ---------:    | ------:   |
-| Area Macrotechnology Auditor: Ruri Matsunaga (Troll)          | 2             | 1         |
+| Ares Macrotechnology Auditor: Ruri Matsunaga (Troll)          | 2             | 1         |
 | Horizon Assistant Marketing Editor: Maria Gracia Ros (Elf)    | 2             | 1         |
 | Mother: Freya Dasami (nee Cireson)                            | 1             | 4         |
 | Sister: Nalia Dasami                                          | 2             | 2         |
@@ -95,18 +95,18 @@
 
 ## Adept Powers
 
-| Power                             | Rating    | Points    | Reference |
-| -----                             | -----:    | -----:    | --------- |
-| Attribute Boost                   | 1         | 0.25      | SR4A p195 |
-| Commanding Voice                  |           | 0.25      | SM p176   |
-| Enhanced Perception               | 1         | 0.25      | SR4A p195 |
-| Facial Sculpt                     | 1         | 0.25      | SM p177   |
-| Improved Physical Attribute (BOD) | 1         | 0.75      | SR4A p196 |
-| Improved Reflexes                 |           | 1.50      | SR4A p196 |
-| Kinesics                          | 1         | 0.50      | SR4A p196 |
-| Linguistics                       |           | 0.25      | SM p177   |
-| Spell Resistance                  | 1         | 0.50      | SR4A p197 |
-| Voice Control                     |           | 0.50      | SR4A p197 |
+| Power                             | Rating    | Power points  | Reference |
+| -----                             | -----:    | -----:        | --------- |
+| Attribute Boost (AGI)             | 1         | 0.25          | SR4A p195 |
+| Commanding Voice                  |           | 0.25          | SM p176   |
+| Enhanced Perception               | 1         | 0.25          | SR4A p195 |
+| Facial Sculpt                     | 1         | 0.25          | SM p177   |
+| Improved Physical Attribute (BOD) | 1         | 0.75          | SR4A p196 |
+| Improved Reflexes                 | 1         | 1.50          | SR4A p196 |
+| Kinesics                          | 1         | 0.50          | SR4A p196 |
+| Linguistics                       |           | 0.25          | SM p177   |
+| Spell Resistance                  | 1         | 0.50          | SR4A p197 |
+| Voice Control                     |           | 0.50          | SR4A p197 |
 
 **Power points used**: 5
 
