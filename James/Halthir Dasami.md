@@ -130,7 +130,7 @@ _No build points used beyond free allocation._
 | Spare clips	1 @ 50	(holdout)          | 50 |
 
 * Total spend: **¥15,000**
-* Starting in-game nuyen: **4d6+4 × ¥100**
+* Starting in-game nuyen: **4d6 × ¥100**
 * Highest availability used: **4**
 
 ## Build points
