@@ -23,4 +23,5 @@ Youngest: Halthir
 ## Dasami Enterprises
 Dasami enterprises has been pottering along in the low - middle levels but under Halthir's sister Nalia's leadership with Halthir's negotiation skills they're fast beginning to get the notice of both Ares and Horizon and Nalia is beginning to wonder whether she might want her wastrel foppish brother to help her negotiate the upcoming deal. He said he would only be a few weeks away, but now it's been 6.
 </p>
-<details>
+</details>
+
