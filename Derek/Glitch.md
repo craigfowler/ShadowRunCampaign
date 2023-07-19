@@ -74,7 +74,7 @@
 | Language                          | Rating    |
 | --------                          | -----:    |
 | English                           | N         |
-| Japanese                          | 3         |
+| Japanese                          | 3 / 1     |
 | German                            | 2         |
 | Spanish                           | 2         |
 
