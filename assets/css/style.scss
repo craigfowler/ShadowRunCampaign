@@ -3,4 +3,4 @@
 
 $logoUrl: "{{ "/assets/shadowrun-logo.png" | relative_url }}";
 
-@import "_reset", "_page", "_header", "_content";
+@import "_reset", "_page", "_header", "_footer", "_content";

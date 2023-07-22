@@ -4,6 +4,7 @@ html, body {
 .page-wrapper {
     display: flex;
     flex-direction: column;
+    min-height: 100%;
 }
 main.page-content {
     flex: 1 1 100%;
@@ -17,9 +18,8 @@ main.page-content {
         max-width: 60rem;
         margin: 0 auto;
         box-shadow: 0.3em 0 1em rgba(0, 0, 0, 0.6);
-        min-height: 100%;
     }
-    main.page-content, header.site-header {
+    main.page-content, header.site-header, footer.site-footer {
         padding: 1rem;
     }
     header.site-header {
@@ -34,6 +34,9 @@ main.page-content {
         padding: 0.4rem 1rem;
         flex: 0 0 3rem;
     }
+    footer.site-footer {
+        padding: 0.4rem 1rem;
+    }
 }
 @media screen and (max-width: 30rem) {
     main.page-content {
@@ -42,5 +45,8 @@ main.page-content {
     header.site-header {
         padding: 0.4rem 0.2rem;
         flex: 0 0 2rem;
+    }
+    footer.site-footer {
+        padding: 0.4rem 0.2rem;
     }
 }
