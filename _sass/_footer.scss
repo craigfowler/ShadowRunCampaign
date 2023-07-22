@@ -1,0 +1,16 @@
+footer.site-footer {
+    background: #F5F5F5;
+    border-top: 1px solid #DDD;
+    font-size: 85%;
+    line-height: 145%;
+    vertical-align: middle;
+    font-family:Arial, Helvetica, sans-serif;
+    
+    p {
+        opacity: 50%;
+        margin-bottom: 0.4em;
+    }
+    p:last-of-type {
+        margin-bottom: 0;
+    }
+}
