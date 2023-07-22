@@ -8,3 +8,15 @@ You should also read the **[in-character intro]** which tells you more about the
 
 [in-character intro]: InCharacterIntro.md
 [out-of-character intro]: OocIntro/index.md
+
+## Game session logs
+
+This is a list of the logs of game sessions.
+
+<ol>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ol>
