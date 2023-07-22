@@ -1,10 +1,16 @@
 title: Craig's ShadowRun campaign
+description: >-
+  Player and public materials and notes for a ShadowRun 4th (Anniversary) Edition
+  campaign that I am running.
+url: "https://shadowrun.toreadorvampire.co.uk"
 
 plugins:
   - jekyll-sitemap
+  - jekyll-feed
 
 exclude:
   - LICENSE
   - README.md
+  - .gitignore
 
 markdown: kramdown
