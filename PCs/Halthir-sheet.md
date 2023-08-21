@@ -76,7 +76,7 @@
 | Japanese                      | 1         | 3         |
 | Cantonese                     | 1         | 3         |
 | Or'Zet                        | 1         | 3         |
-| Spanish                       | 1         | 3         |
+| Mandarin                      | 1         | 3         |
 | Sperethiel                    | 2         | 4         |
 | Sperethiel (Read/Write)       | 2         | 4         |
 
@@ -125,7 +125,7 @@ _No build points used beyond free allocation._
 | Heavy Pistol ammo × 70 @20¥/10        | 140       |
 | Holdout Pistol ammo × 70 @20¥/10        | 140       |
 | Gel ammo × 20 @30¥/10 (Heavy pistol)      | 60        |
-| Stick n shock	2 @ 80¥/10 (Heavy pistol)	| 160 |
+| Stick n shock	x 20 @ 80¥/10 (Heavy pistol)	| 160 |
 | Spare clips	4 @ 50	 (Heavy pistol)    | 200 |
 | Spare clips	1 @ 50	(holdout)          | 50 |
 
