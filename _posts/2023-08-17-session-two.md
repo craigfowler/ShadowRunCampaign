@@ -9,10 +9,10 @@ Sylvie vetoes killing him _(with a quiet disappointed noise from [Gunshow])_ but
 Sylvie promised to arrange a somewhat unpleasant 2 weeks for him.
 After some discussion it was decided to inspect the likely targets A.S.A.P.
 
-[Crimson Crush]: ../Organisations/TheCrimsonCrush.md
-[Sylvie]: ../NPCs/SylvieWalder.md
-[Hodei's]: ../NPCs/HodeiMota.md
-[Gunshow]: ../PCs/Gunshow.md
+[Crimson Crush]: {% link Organisations/TheCrimsonCrush.md %}
+[Sylvie]: {% link NPCs/SylvieWalder.md %}
+[Hodei's]: {% link NPCs/HodeiMota.md %}
+[Gunshow]: {% link PCs/Gunshow.md %}
 
 ### McDonald & Sons Protein Farm
 
@@ -30,11 +30,11 @@ He found them well used by locals but nothing pointing to Crusher presence.
 Looking up he sees one of Doms drones flying a higher and wider check and so he turns to rejoin Hal.
 Feeling they'd done all they could, they moved on to [Albin's].
 
-[Foundry Brothers-run]: ../Organisations/TheFoundryBrothers.md
-[Glitch]: ../PCs/Glitch.md
-[Dom]: ../PCs/Dom.md
-[Halthir]: ../PCs/Halthir.md
-[Albin's]: ../Locations/Albins-bar.md
+[Foundry Brothers-run]: {% link Organisations/TheFoundryBrothers.md %}
+[Glitch]: {% link PCs/Glitch.md %}
+[Dom]: {% link PCs/Dom.md %}
+[Halthir]: {% link PCs/Halthir.md %}
+[Albin's]: {% link Locations/Albins-bar.md %}
 
 ### Albin's bar
 
@@ -52,8 +52,8 @@ Albin then sent the crew his contact details as a reward for their actions and r
 
 Gunshow looked puzzled at that for a moment then left for the bar as Hal and Albins did an amount of polite goodbyes. The crew picked him up on the way out and after some discussion decided to immediately drive on to.
 
-[Fella]: ../PCs/Fella.md
-[Albin Vacatello]: ../NPCs/AlbinVacatello.md
+[Fella]: {% link PCs/Fella.md %}
+[Albin Vacatello]: {% link NPCs/AlbinVacatello.md %}
 
 ### Kuàilè zūn yú Soy processing plant
 
@@ -79,7 +79,7 @@ The most interesting picture was of an orc girl named [Rebecca Weiss], it had th
 
 The crew have two full days to plot, plan and ready a defence for the Friday showdown. Gunshow scouts about for and abandoned vehicle while having a ponder.
 
-[the plant]: ../Locations/SoyProcessingPlant.md
-[Yin Qiao]: ../NPCs/YinQiao.md
-[Cecylia Kasprzak]: ../NPCs/CecyliaKasprzak.md
-[Rebecca Weiss]: ../NPCs/RebeccaWeiss.md
+[the plant]: {% link Locations/SoyProcessingPlant.md %}
+[Yin Qiao]: {% link NPCs/YinQiao.md %}
+[Cecylia Kasprzak]: {% link NPCs/CecyliaKasprzak.md %}
+[Rebecca Weiss]: {% link NPCs/RebeccaWeiss.md %}
