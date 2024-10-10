@@ -9,6 +9,10 @@ You should also read the **[in-character intro]** which tells you more about the
 [in-character intro]: InCharacterIntro.md
 [out-of-character intro]: OocIntro/index.md
 
+## Handouts
+
+* [Cypher's chat log](Handouts/20241010-PeachtreesRunners.md)
+
 ## Game session logs
 
 This is a list of the logs of game sessions.

@@ -1,4 +1,4 @@
-# Secure Chat Log
+# Cypher's chat log
 
 *Timestamp: 2074-03-15 20:47:32*
 
