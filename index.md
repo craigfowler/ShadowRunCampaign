@@ -15,6 +15,9 @@ You should also read the **[in-character intro]** which tells you more about the
 * [Notes 1](Handouts/20241128-ResearchNotes1_1.md)
 * [Notes 2](Handouts/20241128-ResearchNotes2_2.md)
 * [Notes 3](Handouts/20241128-ResearchNotes3_3.md)
+* [Notes 4](Handouts/20241128-ResearchNotes4_4.md)
+* [Syslog](Handouts/20241128-SystemLog.md)
+
 
 ## Game session logs
 
