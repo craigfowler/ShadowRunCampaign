@@ -13,6 +13,7 @@ You should also read the **[in-character intro]** which tells you more about the
 
 * [Cypher's chat log](Handouts/20241010-PeachtreesRunners.md)
 * [Notes 1](Handouts/20241128-ResearchNotes1_1.md)
+* [Notes 2](Handouts/20241128-ResearchNotes2_2.md)
 
 ## Game session logs
 
