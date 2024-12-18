@@ -17,7 +17,7 @@ You should also read the **[in-character intro]** which tells you more about the
 * [Notes 3](Handouts/20241128-ResearchNotes3_3.md)
 * [Notes 4](Handouts/20241128-ResearchNotes4_4.md)
 * [Syslog](Handouts/20241128-SystemLog.md)
-
+* [Runner team loot](Handouts/2024-12-19-RunnerLoot.md)
 
 ## Game session logs
 
