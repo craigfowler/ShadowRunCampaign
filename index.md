@@ -18,6 +18,10 @@ You should also read the **[in-character intro]** which tells you more about the
 * [Notes 4](Handouts/20241128-ResearchNotes4_4.md)
 * [Syslog](Handouts/20241128-SystemLog.md)
 * [Runner team loot](Handouts/2024-12-19-RunnerLoot.md)
+* [Notes 1 original](Handouts/20241128-ResearchNotes5_1_original.md)
+* [Notes 2 original](Handouts/20241128-ResearchNotes6_2_original.md)
+* [Notes 3 original](Handouts/20241128-ResearchNotes7_3_original.md)
+* [Notes 4 original](Handouts/20241128-ResearchNotes8_4_original.md)
 
 ## Game session logs
 
