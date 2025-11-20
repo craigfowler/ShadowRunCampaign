@@ -95,4 +95,12 @@ main.page-content {
             background: #F5F5F5;
         }
     }
+    pre {
+        font-family: 'Lucida Console', monospace;
+        font-size: 90%;
+        padding: 0.4em 1em;
+        background: #EEE;
+        border: 1px solid #CCC;
+        line-height: 130%;
+    }
 }
