@@ -13,7 +13,7 @@ You should also read the **[in-character intro]** which tells you more about the
 
 There is also [a page where I archive old handouts].
 
-* [Datsu's Paydata](Handouts/20251120-DatsusPaydata.md)
+* [MCT BTL data packet](./Handouts/20260618-DataPacket.md)
 
 [a page where I archive old handouts]: ArchivedHandouts.md
 

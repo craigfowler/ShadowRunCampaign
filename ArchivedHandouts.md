@@ -13,3 +13,4 @@ These player handouts are old and relate to past missions.
 * [Notes 2 original](Handouts/20241128-ResearchNotes6_2_original.md)
 * [Notes 3 original](Handouts/20241128-ResearchNotes7_3_original.md)
 * [Notes 4 original](Handouts/20241128-ResearchNotes8_4_original.md)
+* [Datsu's Paydata](Handouts/20251120-DatsusPaydata.md)
