@@ -14,6 +14,7 @@ You should also read the **[in-character intro]** which tells you more about the
 There is also [a page where I archive old handouts].
 
 * [MCT BTL data packet](./Handouts/20260618-DataPacket.md)
+* [What Gunshow overheard](./Handouts/20260730-OverheardAtSafehouse.md)
 
 [a page where I archive old handouts]: ArchivedHandouts.md
 
